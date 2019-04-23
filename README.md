@@ -1,5 +1,6 @@
 # ws-node-blog
 node写的个人博客
+
 条件: 安装了node,mongodb
 
 1. 进入下载目录
